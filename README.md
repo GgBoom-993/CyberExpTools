@@ -36,7 +36,7 @@ If you have any other **crap vulnerability** that are not on this list, please m
         python3 CyberExpTools.py -u https://www.target.com
         python3 CyberExpTools.py -f urls.txt
 
-![image-20250207101745968](C:\Users\ggboom993\AppData\Roaming\Typora\typora-user-images\image-20250207101745968.png)
+![image-20250207101745968](screenshot.png)
 
 
 
