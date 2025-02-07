@@ -3,10 +3,9 @@
 
 
 
+Just a crap vulnerability detection tool.
 
-**Just a crap vulnerability detection tool.** 
-
-
+"Don't throw away those spare coins—every little bit counts toward our goal."
 
 
 
